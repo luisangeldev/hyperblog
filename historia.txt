@@ -6,4 +6,4 @@ Esta es una nueva línea
 
 Hoy está aprendiendo git
 
-Hoy hablaremos de su historia
+Hablaremos de su vida
